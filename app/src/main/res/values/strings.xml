@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Samples</string>
+    <string name="title_directions" translatable="false">Directions</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_search" translatable="false">Search</string>
+    <string name="reset_campaigns" translatable="false">Reset Campaigns</string>
+    <string name="location_request" translatable="false">Request Location</string>
+    <string name="manual_report" translatable="false">Report Issue</string>
+    <string name="issue_report" translatable="false">Report an issue.</string>
+    <string name="query_hint" translatable="false">Find up to ten local items&#8230;</string>
+    <string name="search_query_hint" translatable="false">Find ten placemarks&#8230;</string>
+
+    <string name="location_sharing_create_profile" translatable="false">Create a Sample Location Sharing Profile</string>
+    <string name="location_sharing_start_updating_location" translatable="false">Start Uploading your Location</string>
+    <string name="location_sharing_stop_updating_location" translatable="false">Stop Uploading your Location</string>
+    <string name="location_sharing_create_invite" translatable="false">Create Invite</string>
+    <string name="location_sharing_accept_invite" translatable="false">Accept Invite</string>
+    <string name="location_sharing_retrieve_friends" translatable="false">Retrieve Friends</string>
+    <string name="location_sharing_upload_user_image" translatable="false">Upload User Image</string>
+
+    <string name="campaign_start_monitoring" translatable="false">Start Campaign Monitoring</string>
+    <string name="campaign_stop_monitoring" translatable="false">Stop Campaign Monitoring</string>
+    <string name="campaign_reset_cache" translatable="false">Reset Campaign Cache</string>
+    <string name="campaign_reset_single_cache" translatable="false">Reset Single Campaign Cache</string>
+
+    <string name="settings_about" translatable="false">About</string>
+    <string name="settings_about_version" translatable="false">SDK Version</string>
+
+    <string name="last_heard" translatable="false">Last Heard</string>
+    <string name="last_heard_now" translatable="false">Now</string>
+    <string name="age_format_days" formatted="true" translatable="false">%1$d days, %2$d hours and %3$d min. ago</string>
+    <string name="age_format_hours" formatted="true" translatable="false">%1$d hours and %2$d min. ago</string>
+    <string name="age_format_minutes" formatted="true" translatable="false">%1$d min. ago</string>
+    <string name="age_format_seconds" formatted="true" translatable="false">%1$d seconds ago</string>
+
+    <string-array name="section_titles">
+        <item>Maps</item>
+        <item>Nearby</item>
+        <item>Search</item>
+        <item>Markers</item>
+
+
+
+
+    </string-array>
+
+</resources>

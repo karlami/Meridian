@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.arubanetworks.meridian.maps.MapView
+        android:id="@+id/demo_mapview"
+        android:importantForAccessibility="yes"
+        android:contentDescription="@string/mr_map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

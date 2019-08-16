@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tayro\\Desktop\\meridian-android-sdk-5.6.0\\MeridianSamples\\app\\build\\intermediates\\incremental\\mergeSamplesJavaDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tayro\\.gradle\\caches\\transforms-2\\files-2.1\\df57cd21a65b5da9f4807ecd0d2ce339\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

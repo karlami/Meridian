@@ -1,0 +1,420 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\0e1478939dff2a76e072dd0afc20924f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\d120d9e2485dd19edc92126caabd5e52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\df57cd21a65b5da9f4807ecd0d2ce339\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\552a569f701c6b1294077a117c2f5b92\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\5ab99194ae5d7fce3f738c7647fd7ab7\AndroidManifest.xml:2:1-11:12
+MERGED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:17:1-50:12
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\dd8d57f13134014b27bf0b242c50bf79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a7c718b83f90cd8ab2aa43073fb0e22c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a77eea3c31eaafa88ee5b2c83bc0b477\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\741ed983dde9e8439fee01314deae375\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\67eb83c42adb1328eae9cc8d7f357f7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\0b79dba6a19665c1f7d833c8e1a36df0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\b906acddf9b90d73fdbf4906d651af9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3bbbd6ef6cbdfba4901f41fda953f98f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\b9f745b393077374bd4258186869458a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\8fa98acf8c10b5c70ba09a82f14b37de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e62b6394bb87adf7def80b78f976cd0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\468aea213abd4108d56d508690e66d78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\8c72c5f1342f11ed197d8f06bc818e0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\fcdeb4b597642d8853dbbb88d4bad5f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\6c222d6fa7ec78e8914cf30b488fe41c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\da8eb598a87dc5af7517eb13493e8f69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\717248c638a4c9ab28a78ca15966754f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\f23812fc1156404d809e022882dab297\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\669a52d21a1a9905fcab49178bf60408\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\39d0383ea0b60aedbd36353dbd742fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\4923dd4a84c3f768eecfd58f3cd4b2f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\830b2fa2cb310ab0bdf76938daf1bd49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\bd28369f88439b6d19f38662aa513f6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\103bca7ca179b283bc69d7c18ca84c14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\2ff87774060e0e506750e267b93f8dfb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e209fe2b6a043e4bf8d8ede53e52ad3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\87266f54be01f560e733726b81e6b8d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\1e3161f4d5b899ae5691e12d6f11e102\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\2cee73132e4d6d678629944cec8864d4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:5:5-48
+	android:versionName
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:4:5-44
+uses-feature#0x00020000
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:23:5-25:36
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:23:5-25:36
+	android:glEsVersion
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:10:19-51
+	android:required
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:10:52-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:11:5-75
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:11:5-75
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:12:5-75
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:12:5-75
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:29:5-68
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:14:5-73
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:14:5-73
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:14:5-73
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:30:5-74
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:15:5-103
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:15:5-103
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:15:5-103
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:31:5-33:36
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:15:77-101
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:17:5-38:19
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:17:5-38:19
+MERGED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:17:5-38:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\552a569f701c6b1294077a117c2f5b92\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\552a569f701c6b1294077a117c2f5b92\AndroidManifest.xml:7:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\5ab99194ae5d7fce3f738c7647fd7ab7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\5ab99194ae5d7fce3f738c7647fd7ab7\AndroidManifest.xml:9:5-20
+MERGED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:27:5-48:19
+MERGED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:27:5-48:19
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:36:5-59:19
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:36:5-59:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a7c718b83f90cd8ab2aa43073fb0e22c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a7c718b83f90cd8ab2aa43073fb0e22c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a77eea3c31eaafa88ee5b2c83bc0b477\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a77eea3c31eaafa88ee5b2c83bc0b477\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\f23812fc1156404d809e022882dab297\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\f23812fc1156404d809e022882dab297\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\669a52d21a1a9905fcab49178bf60408\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\669a52d21a1a9905fcab49178bf60408\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\f23812fc1156404d809e022882dab297\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:20:9-41
+	android:hardwareAccelerated
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:38:9-43
+	tools:ignore
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:23:9-69
+activity#com.arubanetworks.meridiansamples.DirectionsActivity
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:26:9-28:20
+	android:label
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:26:19-86
+receiver#com.arubanetworks.meridiansamples.CampaignReceiver
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:exported
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:31:13-78
+intent-filter#action:name:com.arubanetworks.meridian.CAMPAIGNS_BROADCAST+category:name:com.arubanetworks.meridiansamples
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:33:13-36:29
+action#com.arubanetworks.meridian.CAMPAIGNS_BROADCAST
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:34:17-88
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:34:25-86
+category#com.arubanetworks.meridiansamples
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml:35:27-75
+uses-sdk
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\0e1478939dff2a76e072dd0afc20924f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\0e1478939dff2a76e072dd0afc20924f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\d120d9e2485dd19edc92126caabd5e52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\d120d9e2485dd19edc92126caabd5e52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\df57cd21a65b5da9f4807ecd0d2ce339\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\df57cd21a65b5da9f4807ecd0d2ce339\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\552a569f701c6b1294077a117c2f5b92\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\552a569f701c6b1294077a117c2f5b92\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\5ab99194ae5d7fce3f738c7647fd7ab7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\5ab99194ae5d7fce3f738c7647fd7ab7\AndroidManifest.xml:7:5-43
+MERGED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:21:5-23:41
+MERGED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:21:5-23:41
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\dd8d57f13134014b27bf0b242c50bf79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\dd8d57f13134014b27bf0b242c50bf79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a7c718b83f90cd8ab2aa43073fb0e22c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a7c718b83f90cd8ab2aa43073fb0e22c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a77eea3c31eaafa88ee5b2c83bc0b477\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\a77eea3c31eaafa88ee5b2c83bc0b477\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\741ed983dde9e8439fee01314deae375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\741ed983dde9e8439fee01314deae375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\67eb83c42adb1328eae9cc8d7f357f7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\67eb83c42adb1328eae9cc8d7f357f7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\0b79dba6a19665c1f7d833c8e1a36df0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\0b79dba6a19665c1f7d833c8e1a36df0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\b906acddf9b90d73fdbf4906d651af9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\b906acddf9b90d73fdbf4906d651af9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3bbbd6ef6cbdfba4901f41fda953f98f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3bbbd6ef6cbdfba4901f41fda953f98f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\b9f745b393077374bd4258186869458a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\b9f745b393077374bd4258186869458a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\8fa98acf8c10b5c70ba09a82f14b37de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\8fa98acf8c10b5c70ba09a82f14b37de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e62b6394bb87adf7def80b78f976cd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e62b6394bb87adf7def80b78f976cd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\468aea213abd4108d56d508690e66d78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\468aea213abd4108d56d508690e66d78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\8c72c5f1342f11ed197d8f06bc818e0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\8c72c5f1342f11ed197d8f06bc818e0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\fcdeb4b597642d8853dbbb88d4bad5f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\fcdeb4b597642d8853dbbb88d4bad5f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\6c222d6fa7ec78e8914cf30b488fe41c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\6c222d6fa7ec78e8914cf30b488fe41c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\da8eb598a87dc5af7517eb13493e8f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\da8eb598a87dc5af7517eb13493e8f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\717248c638a4c9ab28a78ca15966754f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\717248c638a4c9ab28a78ca15966754f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\f23812fc1156404d809e022882dab297\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\f23812fc1156404d809e022882dab297\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\669a52d21a1a9905fcab49178bf60408\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\669a52d21a1a9905fcab49178bf60408\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\39d0383ea0b60aedbd36353dbd742fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\39d0383ea0b60aedbd36353dbd742fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\4923dd4a84c3f768eecfd58f3cd4b2f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\4923dd4a84c3f768eecfd58f3cd4b2f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\830b2fa2cb310ab0bdf76938daf1bd49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\830b2fa2cb310ab0bdf76938daf1bd49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\bd28369f88439b6d19f38662aa513f6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\bd28369f88439b6d19f38662aa513f6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\103bca7ca179b283bc69d7c18ca84c14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\103bca7ca179b283bc69d7c18ca84c14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\2ff87774060e0e506750e267b93f8dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\2ff87774060e0e506750e267b93f8dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e209fe2b6a043e4bf8d8ede53e52ad3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e209fe2b6a043e4bf8d8ede53e52ad3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\87266f54be01f560e733726b81e6b8d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\87266f54be01f560e733726b81e6b8d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\1e3161f4d5b899ae5691e12d6f11e102\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\1e3161f4d5b899ae5691e12d6f11e102\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\2cee73132e4d6d678629944cec8864d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\2cee73132e4d6d678629944cec8864d4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml
+INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml
+activity#com.arubanetworks.meridiansamples.MainActivity
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:26:9-35:20
+	android:label
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:27:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:32:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\tayro\Desktop\meridian-android-sdk-5.6.0\MeridianSamples\app\src\samplesJava\AndroidManifest.xml:33:27-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:25:22-65
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:28:9-34:59
+	android:process
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:33:13-36
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:30:13-46
+	android:launchMode
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:32:13-48
+	android:theme
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:34:13-56
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:29:13-61
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:36:9-40:39
+	android:process
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:40:13-36
+	android:exported
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:38:13-37
+	android:permission
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:37:13-57
+provider#org.acra.attachment.AcraContentProvider
+ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:42:9-47:39
+	android:process
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:47:13-36
+	android:grantUriPermissions
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:46:13-47
+	android:authorities
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:44:13-56
+	android:exported
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [ch.acra:acra:4.11] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\02c74ec5f2aa8a7f10dec278a5fe7621\AndroidManifest.xml:43:13-67
+uses-feature#android.hardware.bluetooth
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:12:9-50
+uses-feature#android.hardware.bluetooth_le
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:15:9-53
+uses-feature#android.hardware.location.gps
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:18:9-53
+uses-feature#android.hardware.location
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:21:9-49
+uses-permission#android.permission.INTERNET
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:34:22-78
+activity#com.arubanetworks.meridian.search.SearchActivity
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:40:9-85
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:40:19-82
+activity#com.arubanetworks.meridian.internal.debug.DebugActivity
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:41:9-92
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:41:19-89
+activity#com.arubanetworks.meridian.internal.debug.CampaignDebugActivity
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:42:9-44:65
+	android:theme
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:44:13-62
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:43:13-91
+service#com.arubanetworks.meridian.location.MeridianLocationService
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:46:9-95
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:46:18-92
+service#com.arubanetworks.meridian.campaigns.CampaignsService
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:47:9-89
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:47:18-86
+service#com.arubanetworks.meridian.locationsharing.UploadLocationService
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:48:9-100
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:48:18-97
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:49:9-52:40
+	android:enabled
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:50:13-77
+service#com.arubanetworks.meridian.locationsharing.UploadLocationJob
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:53:9-55:72
+	android:permission
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:54:13-88
+service#com.arubanetworks.meridian.campaigns.CampaignsJob
+ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:56:9-58:72
+	android:permission
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:58:13-69
+	android:name
+		ADDED from [com.arubanetworks.meridian:meridian:5.6.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\e8ed241865f23da904df607d351e51b1\AndroidManifest.xml:57:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\00388dfeaebcee36e01abf1b5c07616c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tayro\.gradle\caches\transforms-2\files-2.1\3e269102edd6f59bf373c06da10afcfe\AndroidManifest.xml:24:13-58

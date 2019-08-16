@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-samplesJava-debug.apk","fullName":"samplesJavaDebug","baseName":"samplesJava-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.arubanetworks.meridiansamples","split":"","minSdkVersion":"21"}}]

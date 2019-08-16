@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="pref_key_notifications_settings"
+        android:title="@string/settings_about">
+
+        <Preference
+            android:key="pref_version"
+            android:summary="Test"
+            android:title="@string/settings_about_version" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
